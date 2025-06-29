@@ -34,7 +34,7 @@ node server.js
 The server will start at:
 📍 http://localhost:3000
 
-4. Test with HTML Client (Optional)
+### 4. Test with HTML Client
 Open the index.html file in a browser and test the real-time messaging between multiple browser tabs or devices.
 
 🧠 How It Works
